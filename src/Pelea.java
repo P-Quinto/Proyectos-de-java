@@ -106,11 +106,8 @@ public class Pelea {
                 System.out.println("Los combatientes se mataron mutuamente. Resultado: empate.");
             }
         }
-            
-        
-        
-    }
-    
+}
+}
 
         
 
